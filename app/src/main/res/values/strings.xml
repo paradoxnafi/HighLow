@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">High Low</string>
+    <string name="inputNumHint">Enter a number from 1 to 50</string>
+    <string name="buttonCheckHint">Check</string>
+</resources>
