@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 		} else if(n < r){
 			return "Too low";
 		} else {
+			randNum = (int) (Math.random() * 50 + 1);
 			return "Correct!!!";
 		}
 
